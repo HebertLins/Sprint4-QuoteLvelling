@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=ZagCJOAS00s
 
 # Vídeo explicativo (FULL MVC)
 
-[==](https://youtu.be/KycuApy_n0Y)
+https://youtu.be/KycuApy_n0Y
 
 # Descrição dos endpoints
 
